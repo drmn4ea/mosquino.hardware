@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+	
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 3.2  (Win32)">
+	<META NAME="CREATED" CONTENT="0;0">
+	<META NAME="CHANGED" CONTENT="0;0">
+	
+	<STYLE>
+		<!-- 
+		BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Arial"; font-size:x-small }
+		 -->
+	</STYLE>
+	
+</HEAD>
+
+<BODY TEXT="#000000">
+<TABLE FRAME=VOID CELLSPACING=0 COLS=17 RULES=NONE BORDER=0>
+	<COLGROUP><COL WIDTH=36><COL WIDTH=94><COL WIDTH=117><COL WIDTH=112><COL WIDTH=36><COL WIDTH=138><COL WIDTH=134><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36><COL WIDTH=36></COLGROUP>
+	<TBODY>
+		<TR>
+			<TD WIDTH=36 HEIGHT=92 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Qty</FONT></U></B></TD>
+			<TD WIDTH=94 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Parts (Ref Des.)</FONT></U></B></TD>
+			<TD WIDTH=117 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Device</FONT></U></B></TD>
+			<TD WIDTH=112 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Value</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">ID (bag/kit#)</FONT></U></B></TD>
+			<TD WIDTH=138 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Manufacturer Part Number</FONT></U></B></TD>
+			<TD WIDTH=134 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Vendor Part Number</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">RoHS</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Pop. Qty</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Unit Cost: Qty1</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Unit Cost: Qty25</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Unit Cost: Qty100</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Unit Cost: Qty1000</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Board @ 1</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Board @ 25</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Board @ 100</FONT></U></B></TD>
+			<TD WIDTH=36 ALIGN=LEFT><B><U><FONT FACE="Times New Roman">Board @ 1000</FONT></U></B></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=47 ALIGN=RIGHT SDVAL="3" SDNUM="1033;"><FONT FACE="Times New Roman">3</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">J1, J2, J3</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">MTA08-100</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="3" SDNUM="1033;"><FONT FACE="Times New Roman">3</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="2" SDNUM="1033;"><FONT FACE="Times New Roman">2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">R1, R2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">R-US_R0603</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">1M</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">ERJ-3GEYJ105V</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">P1.0MGCT-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="2" SDNUM="1033;"><FONT FACE="Times New Roman">2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=32 ALIGN=RIGHT SDVAL="7" SDNUM="1033;"><FONT FACE="Times New Roman">7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">C2, C3, C4, C5, C6, C7, C8</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">C-EUC0603</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">100nF</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CL10F104ZA8NNNC</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">1276-1011-1-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="7" SDNUM="1033;"><FONT FACE="Times New Roman">7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">C1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">C-EUC0603</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">220nF</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CC0603KRX7R7BB224</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">311-1426-1-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">U5</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">ADXL345</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">ADXL345</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">ADXL345BCCZ</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">ADXL345BCCZ-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=32 ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">U2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CC2DXXX</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CC2D23S / CC2D33S</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">CC2D23S</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">235-1335-ND </FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">U4</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">MPL3115A2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">MPL3115A2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">MPL3115A2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">MPL3115A2-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">LOGO1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">OSHW-LOGOS</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">OSHW-LOGOS</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="0" SDNUM="1033;"><FONT FACE="Times New Roman">0</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">U8</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP006</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP006</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP006AIYZFR</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">296-28819-1-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="1" SDNUM="1033;"><FONT FACE="Times New Roman">1</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="2" SDNUM="1033;"><FONT FACE="Times New Roman">2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">U6, U7</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP101</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP101</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP101NA</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">296-27725-1-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="2" SDNUM="1033;"><FONT FACE="Times New Roman">2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=RIGHT SDVAL="2" SDNUM="1033;"><FONT FACE="Times New Roman">2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">U1, U3</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP102</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP102/TMP112</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">TMP102AIDRLR</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman">296-26834-1-ND</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=RIGHT SDVAL="2" SDNUM="1033;"><FONT FACE="Times New Roman">2</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=17 ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+		<TR>
+			<TD HEIGHT=32 ALIGN=LEFT><FONT FACE="Times New Roman">Totals...</FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+			<TD ALIGN=LEFT><FONT FACE="Times New Roman"><BR></FONT></TD>
+		</TR>
+	</TBODY>
+</TABLE>
+<!-- ************************************************************************** -->
+</BODY>
+
+</HTML>
